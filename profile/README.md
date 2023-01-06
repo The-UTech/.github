@@ -4,20 +4,14 @@
 
 ## Hi there 👋
 
-Nhân một ngày đẹp trời, tụi mình quyết định xây dựng một blogs tổng hợp những điều hay ho mà tụi mình có thể tìm hiểu được về hành trình trở thành những **báo thủ** chuyên nghiệp :muscle:.
+Nhân một ngày đẹp trời, tụi mình những **báo thủ** quyết định xây dựng một blogs tổng hợp những điều hay ho mà tụi mình có thể tìm hiểu được về hành trình trở thành những **báo thủ** chuyên nghiệp :muscle:.
 
 ## :writing_hand: Blog Posts:
 - [UTech Gitbook](https://utech-organization.gitbook.io)
 
 ## Contributors ✨
+Cảm ơn các **báo thủ** đã đóng góp 😜
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-This project follows the [all-contributors](https://allcontributors.org) specification.
-Contributions of any kind are welcome!
+<a href="https://github.com/The-UTech/become-a-software-engineer/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=The-UTech/become-a-software-engineer" />
+</a>
