@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
@@ -15,3 +15,4 @@ Cảm ơn các **báo thủ** đã đóng góp 😜
 <a href="https://github.com/The-UTech/become-a-software-engineer/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=The-UTech/become-a-software-engineer" />
 </a>
+ -->
